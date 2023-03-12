@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-todo-2/static/css/main.8eb5401a.css",
+    "main.js": "/web-todo-2/static/js/main.36e31962.js",
+    "static/media/logo-icon.svg": "/web-todo-2/static/media/logo-icon.5cf468cc7b1db6b3736797145170f866.svg",
+    "static/media/person-icon.svg": "/web-todo-2/static/media/person-icon.0e6ebec0535d44c23b249bf348c45acb.svg",
+    "static/media/dollar-icon.svg": "/web-todo-2/static/media/dollar-icon.851e55eb53199c81e162698ee0152835.svg",
+    "index.html": "/web-todo-2/index.html",
+    "main.8eb5401a.css.map": "/web-todo-2/static/css/main.8eb5401a.css.map",
+    "main.36e31962.js.map": "/web-todo-2/static/js/main.36e31962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb5401a.css",
+    "static/js/main.36e31962.js"
+  ]
+}
