@@ -1,0 +1,45 @@
+.sum__container {
+    padding: 2rem;
+    width: 100%;
+}
+
+.sum__container-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 1rem 0 3rem 0;
+}
+
+.sum__container-info h1 {
+    color: #26C2AE;
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -1px;
+    line-height: 71px;
+    margin: -1rem 0 0 0;
+}
+
+.sum__container-info-text p {
+    color: #FFF;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.sum__container-info-text span {
+    color: #7F9D9F;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
+}
+
+@media screen and (max-width: 900px) {
+    .sum__container-info h1 {
+        font-size: 32px;
+        line-height: 47px;
+        letter-spacing: -0.67px;
+        margin: 0;
+    }
+}
