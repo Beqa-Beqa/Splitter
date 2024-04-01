@@ -1,5 +1,5 @@
 ## Introduction
-![](https://github.com/Beqa-Beqa/Budgetify/blob/master/Budgetify-banner.png)
+![](https://github.com/Beqa-Beqa/web-todo-2/blob/master/Splitter-banner.png)
 <hr/>
 <p>
   Splitter. The app lets you to split amount to pay on multiple person accurately.
