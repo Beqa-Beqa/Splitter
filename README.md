@@ -1,11 +1,11 @@
 ## Introduction
-![](https://github.com/Beqa-Beqa/web-todo-2/blob/master/Splitter-banner.png)
+![](https://github.com/Beqa-Beqa/Splitter/blob/master/Splitter-banner.png)
 <hr/>
 <p>
   Splitter. The app lets you to split amount to pay on multiple person accurately.
   <br/>
   
-  [Live URL](https://beqa-beqa.github.io/web-todo-2/) - Click here to visit the live application.  
+  [Live URL](https://beqa-beqa.github.io/Splitter/) - Click here to visit the live application.  
   
   [Figma URL](https://www.figma.com/file/CELgSjSm9RGfClpFBWm7kp/tip-calculator-app?type=design&mode=design&t=AAEX56qbcQnnTVJZ-0) - Click here to view the Figma design.
 </p>
